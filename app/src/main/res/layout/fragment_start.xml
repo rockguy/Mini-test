@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.StartFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start_fragment_welcom_text"
+        android:layout_gravity="center_horizontal|center"
+        android:gravity="center_horizontal"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:text="Начать тест"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/start_button" />
+
+</LinearLayout>
