@@ -14,7 +14,7 @@
         android:layout_gravity="center_horizontal" />
 
     <Button
-        android:text="На начало"
+        android:text="@string/go_to_start_fragment_button_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/go_to_start_button"

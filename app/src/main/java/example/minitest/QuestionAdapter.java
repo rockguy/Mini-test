@@ -9,10 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by vinnik on 06.03.2017.
- */
-
 public class QuestionAdapter extends BaseAdapter {
     int selectedPosition = 0;
 

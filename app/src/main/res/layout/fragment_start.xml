@@ -15,7 +15,7 @@
         android:layout_margin="10dp" />
 
     <Button
-        android:text="Начать тест"
+        android:text="@string/start_test_button_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/start_button" />
